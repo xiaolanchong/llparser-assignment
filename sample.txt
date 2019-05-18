@@ -1,0 +1,41 @@
+88.55 + 6 + 4.66;
+return 8 +9;
+float r545, h6;
+double t;
+for(6;7;int a)
+{
+	return 7;
+	for(;;)
+	{
+		4+7;
+	}	
+}
+int afd;
+if(int a,b)
+{
+	return 6;
+}
+else
+ 5 +6;
+for(int a;7;int daa45)
+	if(7+8+10)
+		return 6;
+	else
+		{
+			for(int nb;;65) continue;
+			for(float b; 8+8.454; 9+0)
+				{
+					if(1)
+					{
+						return 8;
+						int a, b, gng;
+						continue;
+					}
+					else
+					{
+						break;
+					}
+					break;
+					return;
+				}
+		} 
